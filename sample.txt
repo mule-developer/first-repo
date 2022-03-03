@@ -1,1 +1,2 @@
-hi these is a new file
+hi these is a new file git bash
+i have to update file form git repository
