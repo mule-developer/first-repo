@@ -2,3 +2,4 @@ hi these is a new file git bash
 i have to update file form git repository 
 new file add add on git bash and push it git repo
 file edit on git repository for git hub
+again file is update on git hub
